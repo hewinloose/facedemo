@@ -28,4 +28,9 @@ npm-debug.log*
 /node_modules
 /platforms
 /plugins
+/tmp_rust_check/
+/facedemo-rust/target/
+/facedemo-rust/src-tauri/target/
+/facedemo-rust/face-core/target/
+/.gradle/
 /www
